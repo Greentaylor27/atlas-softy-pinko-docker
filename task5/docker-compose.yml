@@ -1,4 +1,4 @@
-version: '3 or 4'
+version: '3'
 services:
   back-end:
     build:
